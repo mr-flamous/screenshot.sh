@@ -1,5 +1,5 @@
 # screenshot.sh
-Simple script for uploading screenshots to x0.at (or other platforms)
+Simple script for uploading screenshots to 0x0.st (or other platforms)
 Requirements:
 - `flameshot`
 - `xclip`
